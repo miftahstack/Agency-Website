@@ -24,7 +24,7 @@
 /* Banner Part Start*/
 #bannerpart {
     background: #3C0486;
-    height: 550px;
+    height: 500px;
     width: 100%;
 }
 
@@ -50,7 +50,7 @@
 }
 
 .banner_right img{
-    width:500px;
+    width:525px;
 }
 
 /* Banner Part End*/
