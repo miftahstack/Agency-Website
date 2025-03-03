@@ -29,7 +29,7 @@
 }
 
 .banner_left {
-    padding: 100px 50px;
+    padding: 100px 0px;
     color: #fff;
 }
 
@@ -58,6 +58,28 @@
 /* Boost Part Start*/
 #boostpart{
 padding: 100px 0px;
+}
+
+#boostpart h3{
+    font-family: "Raleway", sans-serif;
+    font-size: 50px;
+    line-height: 58px;
+    padding-right: 36px;
+    color: #30006C;
+}
+
+#boostpart p{
+    font-family: "Raleway", sans-serif;
+    font-size: 16px;
+    
+}
+#boostpart h5{
+    font-family: "Raleway", sans-serif;
+font-size: 20px;
+font-weight: 600;
+color:#300370;
+    line-height: 20px;
+
 }
 /* Boost Part End*/
 
