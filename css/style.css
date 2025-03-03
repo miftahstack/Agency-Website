@@ -1,4 +1,68 @@
+/* All CSS reset */
 * {
     margin: 0;
     padding: 0;
 }
+
+/* All CSS reset */
+
+/* Navbar Part Start*/
+.navbar {
+    background: #3C0486;
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(255, 255, 255);
+}
+
+.navbar-brand img {
+    width: 200px;
+}
+
+/* Navbar Part End*/
+
+/* Banner Part Start*/
+#bannerpart {
+    background: #3C0486;
+    height: 550px;
+    width: 100%;
+}
+
+.banner_left {
+    padding: 100px 50px;
+    color: #fff;
+}
+
+.banner_left h1 {
+    font-family: "Raleway", sans-serif;
+    font-size: 58px;
+    line-height: 68px;
+}
+
+.banner_left p {
+    font-family: "Raleway", sans-serif;
+    font-size: 22;
+    line-height: 20px;
+}
+
+.banner_left .btn {
+    color: #fff;
+}
+
+.banner_right img{
+    width:500px;
+}
+
+/* Banner Part End*/
+
+/* Banner Part Start*/
+/* Banner Part End*/
+
+/* Banner Part Start*/
+/* Banner Part End*/
+
+/* Banner Part Start*/
+/* Banner Part End*/
+
+/* Banner Part Start*/
+/* Banner Part End*/
